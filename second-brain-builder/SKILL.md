@@ -5,7 +5,7 @@ display_name_en: Second Brain Builder
 description: 从零搭建 Obsidian 第二大脑知识库：目录规范、元数据体系、错题集方法论、领域包建设流程。当用户想建知识库、整理笔记、搭建个人知识管理系统、Obsidian 入门、PARA/标签体系混乱需要重构时使用。
 description_zh: 从零搭建 Obsidian 第二大脑：目录规范、元数据体系、错题集、领域包，一套可长期运行的知识管理操作系统。
 description_en: Build a second-brain Obsidian vault from scratch - folder conventions, metadata system, mistake-notebook methodology, and domain-pack workflow for a knowledge OS that lasts.
-category: writing
+category: education
 version: 1.0.0
 author: syvia
 ---

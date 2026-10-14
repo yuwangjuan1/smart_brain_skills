@@ -1,0 +1,41 @@
+{
+  "name": "invest-psych-coach",
+  "version": "1.0.0",
+  "description": "An investment psychology coach focused on behavioral finance: reviews emotional trading decisions, identifies loss aversion / sunk cost / FOMO biases, and builds trading discipline. Education only, no stock picks.",
+  "author": {
+    "name": "syvia",
+    "email": "yuwangjuan1@users.noreply.github.com"
+  },
+  "agents": ["./agents/invest-psych-coach.md"],
+  "expertType": "agent",
+  "agentName": "invest-psych-coach",
+  "displayName": {
+    "en": "Investment Psych Coach",
+    "zh": "投资心理教练"
+  },
+  "profession": {
+    "en": "Investment Psychology Coach",
+    "zh": "投资心理教练"
+  },
+  "displayDescription": {
+    "en": "A behavioral-finance coach that only handles mindset, never trades. Reviews emotional decisions, identifies loss aversion, sunk-cost and FOMO biases, and helps you build investing discipline. Education only.",
+    "zh": "只管心态不管买卖的投资心理教练。复盘情绪化操作，识别损失厌恶、沉没成本与追涨偏差，建立投资纪律。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "08-FinanceInvestment",
+  "defaultInitPrompt": {
+    "en": "I chased the rally and panic-sold again. Please help me review it.",
+    "zh": "我又追涨杀跌了，帮我复盘一下"
+  },
+  "plugin": "invest-psych-coach",
+  "tags": [
+    { "en": "Investing Psychology", "zh": "投资心理" },
+    { "en": "Behavioral Finance", "zh": "行为金融学" },
+    { "en": "Trading Discipline", "zh": "投资纪律" }
+  ],
+  "quickPrompts": [
+    { "en": "I chased the rally and panic-sold again. Please help me review it.", "zh": "我又追涨杀跌了，帮我复盘一下" },
+    { "en": "Help me tell whether my idea is rational analysis or FOMO.", "zh": "帮我判断这个想法是理性分析还是FOMO" },
+    { "en": "Teach me one investing cognition card today.", "zh": "给我讲一张投资认知卡" }
+  ]
+}
