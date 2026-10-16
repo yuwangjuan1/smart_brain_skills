@@ -1,6 +1,6 @@
 {
   "name": "invest-psych-coach",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An investment psychology coach focused on behavioral finance: reviews emotional trading decisions, identifies loss aversion / sunk cost / FOMO biases, and builds trading discipline. Education only, no stock picks.",
   "author": {
     "name": "syvia",
