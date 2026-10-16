@@ -4,7 +4,7 @@ display_name: 亲子沟通技能
 display_name_en: Parent Talk
 description: 给家长一套"先接情绪、再处理事情"的对话顺序：闭嘴听、译感受、接情绪、议事情四步，替代说教、吼叫与讲道理失效的僵局。当孩子不肯说、说了顶回去、一聊就吵，或家长忍不住开始说教时使用。
 description_zh: 先接情绪再处理事情的亲子对话四步：闭嘴听、译感受、接情绪、议事情，替代说教与吼叫。
-description_en: A feel-first, fix-second conversation sequence for parents: listen, reflect feelings, empathize, then discuss.
+description_en: "A feel-first, fix-second conversation sequence for parents: listen, reflect feelings, empathize, then discuss."
 category: 实用工具
 version: 1.0.0
 author: syvia
