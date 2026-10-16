@@ -21,6 +21,10 @@
 
 用「五步决策手术」（定诊、拆解、验尸、推演、开方）把纠结、冲动、事后后悔的决策拆开；内置道法术器四层透视、偏差解毒七查与决策备忘卡。
 
+### 理性切换技能（system-switch）
+
+在冲动与拖延之间装一个思维哨兵：识别判断由快直觉还是慢推理主导，用识别、延时、反证、推演四步强制切换系统2，交付切换检查单。
+
 ### 第二大脑建造师（second-brain-builder）
 
 从零搭建 Obsidian 第二大脑知识库：3 套目录方案、Frontmatter 元数据规范、笔记三态生长模型、错题集方法论、领域包 D2 五步流程。
@@ -30,8 +34,10 @@
 ```
 workbuddy-skills/
 |-- invest-psych-coach/      # 专家包（plugin.json + agents + avatars）
-|-- decision-skill/       # 技能包（SKILL.md + references + templates + examples）
+|-- decision-skill/         # 技能包（SKILL.md + references + templates + examples）
+|-- system-switch/           # 技能包（技能工厂首件试产）
 |-- second-brain-builder/    # 技能包
+|-- _factory/                # 技能工厂：SPEC 模板 + 生产指令 + 试产样例
 `-- *.zip                    # 各自打包产物，上传 WorkBuddy 开放平台
 ```
 
@@ -45,6 +51,10 @@ Add-Type -AssemblyName System.IO.Compression.FileSystem
 ```
 
 然后到 WorkBuddy 开放平台上传 zip 提交审核。
+
+## 技能工厂
+
+批量生产走 `_factory/`：复制 `SPEC-TEMPLATE.md` 填一页 spec → 按 `FACTORY.md` 六道工序生成整包 → 过三条质量门出厂。知识库技能卡（一卡一包）可直接作 spec，试产样例见 `demo-spec.md`。
 
 ## License
 
