@@ -6,7 +6,7 @@ description: 从零搭建 Obsidian 第二大脑知识库：目录规范、元数
 description_zh: 从零搭建 Obsidian 第二大脑：目录规范、元数据体系、错题集、领域包，一套可长期运行的知识管理操作系统。
 description_en: Build a second-brain Obsidian vault from scratch - folder conventions, metadata system, mistake-notebook methodology, and domain-pack workflow for a knowledge OS that lasts.
 category: education
-version: 1.0.0
+version: 1.1.0
 author: syvia
 ---
 
