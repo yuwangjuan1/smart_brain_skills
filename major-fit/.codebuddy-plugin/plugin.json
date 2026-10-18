@@ -24,8 +24,8 @@
   "avatar": "avatars/expert.png",
   "categoryId": "09-EducationLearning",
   "defaultInitPrompt": {
-    "en": "My kid is torn between computer science and psychology. Help us analyze the fit.",
-    "zh": "孩子在计算机和心理学之间纠结，帮我们做专业定位"
+    "en": "Run an interest-ability-outcome analysis for me.",
+    "zh": "帮我做一次兴趣-能力-出口三角定位"
   },
   "plugin": "major-fit",
   "tags": [

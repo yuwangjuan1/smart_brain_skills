@@ -24,8 +24,8 @@
   "avatar": "avatars/expert.png",
   "categoryId": "09-EducationLearning",
   "defaultInitPrompt": {
-    "en": "My kid scored 582, rank 30000. How should we design the gradient?",
-    "zh": "孩子考了582分，位次3万，志愿梯度该怎么排？"
+    "en": "Help me split 45 volunteers into chong-wen-bao by rank.",
+    "zh": "帮我按位次把45个志愿分成冲稳保"
   },
   "plugin": "gaokao-strategy",
   "tags": [

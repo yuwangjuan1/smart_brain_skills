@@ -24,8 +24,8 @@
   "avatar": "avatars/expert.png",
   "categoryId": "09-EducationLearning",
   "defaultInitPrompt": {
-    "en": "Parents want a normal university for a stable job, but I want art school. Help us talk.",
-    "zh": "爸妈要我报师范说稳定，我想学动画，我们吵了一周了"
+    "en": "We keep fighting over the volunteer form. Help us mediate.",
+    "zh": "我们为志愿表吵个不停，帮我们调解一下"
   },
   "plugin": "family-mediation",
   "tags": [
