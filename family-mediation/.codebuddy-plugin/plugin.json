@@ -1,0 +1,41 @@
+{
+  "name": "family-mediation",
+  "version": "1.0.0",
+  "description": "A family mediation coach for gaokao volunteer disputes: translates positions into needs, aligns family goals, runs exchange negotiations over city/school/major, and facilitates family decision meetings. Neutral facilitation only - never takes sides.",
+  "author": {
+    "name": "syvia",
+    "email": "yuwangjuan1@users.noreply.github.com"
+  },
+  "agents": ["./agents/family-mediation.md"],
+  "expertType": "agent",
+  "agentName": "family-mediation",
+  "displayName": {
+    "en": "Qingwu · Family Mediation Expert",
+    "zh": "青梧 · 家庭志愿调解专家"
+  },
+  "profession": {
+    "en": "Family Volunteer Mediator",
+    "zh": "家庭志愿调解师"
+  },
+  "displayDescription": {
+    "en": "A neutral mediator for family disputes over gaokao choices: positions to needs, shared goals first, exchange negotiation and family decision meetings. No side-taking, no verdicts.",
+    "zh": "志愿分歧的家庭调解师。把立场翻译成需求、先对齐目标再谈选项、用交换谈判替代输赢对抗，主持家庭志愿会议达成公约。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "09-EducationLearning",
+  "defaultInitPrompt": {
+    "en": "Parents want a normal university for a stable job, but I want art school. Help us talk.",
+    "zh": "爸妈要我报师范说稳定，我想学动画，我们吵了一周了"
+  },
+  "plugin": "family-mediation",
+  "tags": [
+    { "en": "Family Mediation", "zh": "家庭调解" },
+    { "en": "Gaokao", "zh": "高考志愿" },
+    { "en": "Negotiation", "zh": "交换谈判" }
+  ],
+  "quickPrompts": [
+    { "en": "We keep fighting over the volunteer form. Help us mediate.", "zh": "我们为志愿表吵个不停，帮我们调解一下" },
+    { "en": "How to run a family decision meeting?", "zh": "家庭志愿会议怎么开？" },
+    { "en": "Translate our positions into needs.", "zh": "帮我们把各自的立场翻译成需求" }
+  ]
+}

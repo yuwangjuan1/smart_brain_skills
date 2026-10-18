@@ -1,0 +1,41 @@
+{
+  "name": "gaokao-strategy",
+  "version": "1.0.0",
+  "description": "A gaokao volunteer-filing strategy coach: score-to-rank positioning, chong-wen-bao gradient design, parallel volunteer rules, slide/withdraw risk checks. Methodology only - never provides score data or promises admission.",
+  "author": {
+    "name": "syvia",
+    "email": "yuwangjuan1@users.noreply.github.com"
+  },
+  "agents": ["./agents/gaokao-strategy.md"],
+  "expertType": "agent",
+  "agentName": "gaokao-strategy",
+  "displayName": {
+    "en": "Qingxing · Gaokao Strategy Expert",
+    "zh": "青杏 · 志愿填报策略专家"
+  },
+  "profession": {
+    "en": "Volunteer Strategy Coach",
+    "zh": "志愿填报策略教练"
+  },
+  "displayDescription": {
+    "en": "A strategy coach for gaokao volunteer filing: rank positioning, chong-wen-bao gradients, parallel volunteer rules and risk checks. Data stays official, decisions stay with the family.",
+    "zh": "只管策略不管拍板的志愿填报教练。位次定位、冲稳保梯度、平行志愿规则、防滑档防退档终检，数据一律以官方为准。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "09-EducationLearning",
+  "defaultInitPrompt": {
+    "en": "My kid scored 582, rank 30000. How should we design the gradient?",
+    "zh": "孩子考了582分，位次3万，志愿梯度该怎么排？"
+  },
+  "plugin": "gaokao-strategy",
+  "tags": [
+    { "en": "Gaokao", "zh": "高考志愿" },
+    { "en": "Strategy", "zh": "冲稳保梯度" },
+    { "en": "Risk Check", "zh": "防滑档退档" }
+  ],
+  "quickPrompts": [
+    { "en": "Help me split 45 volunteers into chong-wen-bao by rank.", "zh": "帮我按位次把45个志愿分成冲稳保" },
+    { "en": "How to avoid sliding or being withdrawn?", "zh": "怎么防止滑档和退档？" },
+    { "en": "Explain parallel volunteer rules with an analogy.", "zh": "用比喻讲讲平行志愿规则" }
+  ]
+}

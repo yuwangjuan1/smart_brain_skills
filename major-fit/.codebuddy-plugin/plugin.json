@@ -1,0 +1,41 @@
+{
+  "name": "major-fit",
+  "version": "1.0.0",
+  "description": "A college major fit advisor: interest-ability-outcome triangle positioning, major demystification (name traps, real curricula), career exit mapping and transfer-risk checks. Evidence-based fit analysis only - never declares a major good or bad.",
+  "author": {
+    "name": "syvia",
+    "email": "yuwangjuan1@users.noreply.github.com"
+  },
+  "agents": ["./agents/major-fit.md"],
+  "expertType": "agent",
+  "agentName": "major-fit",
+  "displayName": {
+    "en": "Qingtang · Major Fit Expert",
+    "zh": "青棠 · 专业定位顾问专家"
+  },
+  "profession": {
+    "en": "Major Fit Advisor",
+    "zh": "专业定位顾问"
+  },
+  "displayDescription": {
+    "en": "An evidence-based major fit advisor: interest-ability-outcome triangle, name-trap demystification, real curriculum checks and career exit mapping. Fit analysis, never verdicts.",
+    "zh": "用证据选专业的定位顾问。兴趣-能力-出口三角定位、专业名称祛魅、培养方案核查、就业出口前瞻，只做匹配分析不下好坏结论。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "09-EducationLearning",
+  "defaultInitPrompt": {
+    "en": "My kid is torn between computer science and psychology. Help us analyze the fit.",
+    "zh": "孩子在计算机和心理学之间纠结，帮我们做专业定位"
+  },
+  "plugin": "major-fit",
+  "tags": [
+    { "en": "Major Selection", "zh": "专业选择" },
+    { "en": "Fit Analysis", "zh": "三角定位" },
+    { "en": "Career Mapping", "zh": "就业出口" }
+  ],
+  "quickPrompts": [
+    { "en": "Run an interest-ability-outcome analysis for me.", "zh": "帮我做一次兴趣-能力-出口三角定位" },
+    { "en": "Is this major's name a trap? Demystify it for me.", "zh": "这个专业名字是不是陷阱？帮我祛魅" },
+    { "en": "What exits does this major lead to?", "zh": "这个专业毕业后有哪些出口？" }
+  ]
+}
