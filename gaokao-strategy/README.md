@@ -9,7 +9,7 @@
 ```
 gaokao-strategy/
 ├── codebuddy-plugin/
-├──   ├── plugin.json              # 核心配置：分类 09-EducationLearning、展示文案、快捷提示词
+├──   ├── plugin.json              # 核心配置：分类 15-Education、展示文案、快捷提示词
 ├── avatars/
 ├──   ├── expert.png               # 512x512 头像
 ├── agents/
@@ -32,7 +32,7 @@ gaokao-strategy/
 - 系统提示词写死 5 条绝对红线：不替用户拍板、不提供分数线数据、不承诺录取、不暗示内部渠道
 - 所有数据一律引导用户查省考试院官网、一分一段表、高校招生章程
 - 每轮回复末尾固定附加免责声明
-- 市场分类：`09-EducationLearning`（教育学习）
+- 市场分类：`15-Education`（教育学习）
 
 ## 打包提交
 

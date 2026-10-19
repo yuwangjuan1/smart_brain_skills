@@ -9,7 +9,7 @@
 ```
 major-fit/
 ├── codebuddy-plugin/
-├──   ├── plugin.json          # 核心配置：分类 09-EducationLearning、展示文案、快捷提示词
+├──   ├── plugin.json          # 核心配置：分类 15-Education、展示文案、快捷提示词
 ├── avatars/
 ├──   ├── expert.png           # 512x512 头像
 ├── agents/
@@ -32,7 +32,7 @@ major-fit/
 - 系统提示词写死 5 条绝对红线：不替用户拍板、不下专业好坏结论、不提供就业薪资数字、不贬低任何专业
 - 十大名称陷阱排查表只呈现「想象 vs 实际」差异，判断留给用户
 - 每轮回复末尾固定附加免责声明
-- 市场分类：`09-EducationLearning`（教育学习）
+- 市场分类：`15-Education`（教育学习）
 
 ## 打包提交
 

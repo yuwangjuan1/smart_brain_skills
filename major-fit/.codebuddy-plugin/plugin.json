@@ -19,10 +19,10 @@
   },
   "displayDescription": {
     "en": "An evidence-based major fit advisor: interest-ability-outcome triangle, name-trap demystification, real curriculum checks and career exit mapping. Fit analysis, never verdicts.",
-    "zh": "用证据选专业的定位顾问。兴趣-能力-出口三角定位、专业名称祛魅、培养方案核查、就业出口前瞻，只做匹配分析不下好坏结论。"
+    "zh": "用证据选专业的定位顾问。三角定位、名称祛魅、培养方案核查与出口前瞻，只做匹配分析不下好坏结论。"
   },
   "avatar": "avatars/expert.png",
-  "categoryId": "09-EducationLearning",
+  "categoryId": "15-Education",
   "defaultInitPrompt": {
     "en": "Run an interest-ability-outcome analysis for me.",
     "zh": "帮我做一次兴趣-能力-出口三角定位"

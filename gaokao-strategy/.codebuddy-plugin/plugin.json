@@ -19,10 +19,10 @@
   },
   "displayDescription": {
     "en": "A strategy coach for gaokao volunteer filing: rank positioning, chong-wen-bao gradients, parallel volunteer rules and risk checks. Data stays official, decisions stay with the family.",
-    "zh": "只管策略不管拍板的志愿填报教练。位次定位、冲稳保梯度、平行志愿规则、防滑档防退档终检，数据一律以官方为准。"
+    "zh": "只管策略不管拍板的志愿教练。位次定位、冲稳保梯度排布、防滑档防退档终检，数据一律以官方公布为准。"
   },
   "avatar": "avatars/expert.png",
-  "categoryId": "09-EducationLearning",
+  "categoryId": "15-Education",
   "defaultInitPrompt": {
     "en": "Help me split 45 volunteers into chong-wen-bao by rank.",
     "zh": "帮我按位次把45个志愿分成冲稳保"

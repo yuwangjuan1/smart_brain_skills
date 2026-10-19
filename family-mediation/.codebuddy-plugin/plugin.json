@@ -19,10 +19,10 @@
   },
   "displayDescription": {
     "en": "A neutral mediator for family disputes over gaokao choices: positions to needs, shared goals first, exchange negotiation and family decision meetings. No side-taking, no verdicts.",
-    "zh": "志愿分歧的家庭调解师。把立场翻译成需求、先对齐目标再谈选项、用交换谈判替代输赢对抗，主持家庭志愿会议达成公约。"
+    "zh": "志愿分歧的家庭调解师。立场翻译成需求、目标对齐先行、交换谈判与家庭会议，主持达成家庭志愿公约。"
   },
   "avatar": "avatars/expert.png",
-  "categoryId": "09-EducationLearning",
+  "categoryId": "15-Education",
   "defaultInitPrompt": {
     "en": "We keep fighting over the volunteer form. Help us mediate.",
     "zh": "我们为志愿表吵个不停，帮我们调解一下"

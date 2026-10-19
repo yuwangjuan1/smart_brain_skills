@@ -9,7 +9,7 @@
 ```
 family-mediation/
 ├── codebuddy-plugin/
-├──   ├── plugin.json           # 核心配置：分类 09-EducationLearning、展示文案、快捷提示词
+├──   ├── plugin.json           # 核心配置：分类 15-Education、展示文案、快捷提示词
 ├── avatars/
 ├──   ├── expert.png            # 512x512 头像
 ├── agents/
@@ -32,7 +32,7 @@ family-mediation/
 - 系统提示词写死 5 条绝对红线：不站队、不替家庭拍板、不做心理治疗、不评价对错
 - 三类典型冲突（安全型/补偿型/放养遇反弹）只翻译恐惧不贴标签
 - 每轮回复末尾固定附加免责声明，危机信号优先转介
-- 市场分类：`09-EducationLearning`（教育学习）
+- 市场分类：`15-Education`（教育学习）
 
 ## 打包提交
 

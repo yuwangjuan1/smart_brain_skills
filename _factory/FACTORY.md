@@ -18,7 +18,7 @@
      `Add-Type -AssemblyName System.IO.Compression.FileSystem; [IO.Compression.ZipFile]::CreateFromDirectory("src","dst.zip","Optimal",$true)`
    - git add + commit + push。
 
-## 质量门（六条全过才出厂）
+## 质量门（七条全过才出厂）
 
 - [ ] 六段结构完整，铁律含"不替用户拍板"
 - [ ] demo 从开场分流走到交付，含至少一次"回炉/拒绝"分支
@@ -26,6 +26,7 @@
 - [ ] frontmatter 值含半角冒号（xx: yy）必须用双引号包裹整个值，否则 YAML 解析失败
 - [ ] 更新已上架的包：版本号必须大于平台现存最新版本（如 1.0.0 递增到 1.1.0），否则解析被拒
 - [ ] 专家包 plugin.json：defaultInitPrompt 的 en/zh 必须与 quickPrompts[0] 完全一致，否则解析被拒
+- [ ] categoryId 必须取自官方行业分类表（01-ProductDesign 到 15-Education 共 15 类，教育类为 15-Education），不得自造
 
 ## 产能节奏
 
