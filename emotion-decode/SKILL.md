@@ -1,4 +1,4 @@
----
+﻿---
 name: emotion-decode
 display_name: 儿童情绪解读技能
 display_name_en: Emotion Decode
@@ -6,7 +6,7 @@ description: 把孩子的哭闹、顶嘴、拖延、粘人从"行为问题"翻�
 description_zh: 解码孩子行为背后的情绪与需求：先接情绪，再处理事情，附常见行为对照密码本。
 description_en: Translate a child's tantrums, backtalk, and clinginess into emotional signals, then respond to the feeling before the behavior.
 category: 实用工具
-version: 1.0.0
+version: 1.1.0
 author: syvia
 ---
 

@@ -1,18 +1,18 @@
----
+﻿---
 name: second-brain-builder
 display_name: 第二大脑建造师
 display_name_en: Second Brain Builder
-description: 从零搭建 Obsidian 第二大脑知识库：目录规范、元数据体系、错题集方法论、领域包建设流程。当用户想建知识库、整理笔记、搭建个人知识管理系统、Obsidian 入门、PARA/标签体系混乱需要重构时使用。
-description_zh: 从零搭建 Obsidian 第二大脑：目录规范、元数据体系、错题集、领域包，一套可长期运行的知识管理操作系统。
-description_en: Build a second-brain Obsidian vault from scratch - folder conventions, metadata system, mistake-notebook methodology, and domain-pack workflow for a knowledge OS that lasts.
-category: education
-version: 1.1.0
+description: 帮你整理与重构 Obsidian 笔记库：目录规范、元数据体系、错题集方法、领域包流程，让知识记得住、找得到。当用户想整理笔记、归纳资料、优化笔记结构、Obsidian 入门、PARA/标签体系混乱需要梳理时使用。
+description_zh: Obsidian 笔记整理与梳理：目录规范、元数据、错题集、领域包，一套可长期使用的知识整理方法。
+description_en: "Organize and restructure your Obsidian notes: folder conventions, metadata, mistake-notebook method, and domain-pack workflow for knowledge that lasts."
+category: 办公效率
+version: 1.2.0
 author: syvia
 ---
 
 # 第二大脑建造师
 
-帮用户从零搭建（或重构）一个可长期运行的 Obsidian 第二大脑知识库。本技能提供的是一套**经过长期实战验证的知识管理操作系统**：目录规范 + 元数据体系 + 错题集方法论 + 领域包建设流程。
+帮用户从零整理（或重构）一个可长期使用的 Obsidian 第二大脑笔记库。本技能提供的是一套**经过长期实战验证的知识管理方法**：目录规范 + 元数据体系 + 错题集方法论 + 领域包建设流程。
 
 ## 执行总则
 

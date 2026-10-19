@@ -1,4 +1,4 @@
-# FACTORY：Spec → 技能包 生产指令
+﻿# FACTORY：Spec → 技能包 生产指令
 
 > 给 AI 的流水线操作手册。输入：一份填好的 SPEC；输出：可上传的技能包 + zip。
 
@@ -18,7 +18,7 @@
      `Add-Type -AssemblyName System.IO.Compression.FileSystem; [IO.Compression.ZipFile]::CreateFromDirectory("src","dst.zip","Optimal",$true)`
    - git add + commit + push。
 
-## 质量门（七条全过才出厂）
+## 质量门（九条全过才出厂）
 
 - [ ] 六段结构完整，铁律含"不替用户拍板"
 - [ ] demo 从开场分流走到交付，含至少一次"回炉/拒绝"分支
@@ -27,6 +27,8 @@
 - [ ] 更新已上架的包：版本号必须大于平台现存最新版本（如 1.0.0 递增到 1.1.0），否则解析被拒
 - [ ] 专家包 plugin.json：defaultInitPrompt 的 en/zh 必须与 quickPrompts[0] 完全一致，否则解析被拒
 - [ ] categoryId 必须取自官方行业分类表（01-ProductDesign 到 15-Education 共 15 类，教育类为 15-Education），不得自造
+- [ ] 技能包 category 字段只填「办公效率」或「实用工具」（对应平台工具>办公类目，个人开发者可选）
+- [ ] 文案（display_name/description 及正文）禁用「开发/搭建/建站/部署/操作系统/知识 OS」等触发词，防止被判入「商业服务>软件/建站/技术开发」该类目需企业认证，个人开发者必驳回
 
 ## 产能节奏
 

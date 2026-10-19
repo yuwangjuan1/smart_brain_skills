@@ -1,4 +1,4 @@
----
+﻿---
 name: decision-skill
 display_name: 利弊决策技能
 display_name_en: Pros-Cons Decision Skill
@@ -6,7 +6,7 @@ description: 用一套「五步决策手术」把纠结、冲动、事后后悔�
 description_zh: 用「五步决策手术」把拍脑袋的决策拆开：分流决策类型、展开选项、事前验尸、偏差解毒、输出决策备忘卡。专治纠结、冲动与事后后悔。
 description_en: "Tear down a decision with a five-step decision surgery: triage the type, widen options, run a pre-mortem, detox biases, and output a decision memo. For dilemmas and messy trade-offs."
 category: 办公效率
-version: 1.0.0
+version: 1.1.0
 author: syvia
 ---
 
